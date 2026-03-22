@@ -46,6 +46,10 @@
     font-weight:600;
 }
 
+.nav-btn:hover{
+    background:#e55a00;
+}
+
 /* ---------- HERO SECTION ---------- */
 
 .hero{
