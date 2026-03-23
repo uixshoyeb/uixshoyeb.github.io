@@ -94,7 +94,8 @@
 
 .hero-image img{
     width:450px;
-    border-radius:20px;
+    border-radius:24px;
+    corner-shape: superellipse(1);
 }
 
 span{
