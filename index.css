@@ -43,7 +43,8 @@
     color:white;
     text-decoration:none;
     border-radius:10px;
-    font-weight:600;
+    font-weight:500;
+    corner-shape: superellipse(1);
 }
 
 .nav-btn:hover{
@@ -83,7 +84,8 @@
     color:white;
     text-decoration:none;
     border-radius:10px;
-    font-weight:600;
+    font-weight:500;
+    corner-shape: superellipse(1);
 }
 
 .hero-btn:hover{
